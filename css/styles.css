@@ -1,6 +1,7 @@
 h1 {
   color: #f00;
   text-align: center;
+  line-height: 20px;
 }
 
 h2 {
@@ -26,6 +27,7 @@ ul {
 ol {
   text-align: center;
   list-style-position: inside;
+  font-weight: bold;
 }
 
 img {
